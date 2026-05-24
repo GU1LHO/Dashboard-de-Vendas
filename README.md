@@ -10,8 +10,8 @@
 
 Análise completa do desempenho comercial de uma empresa de eletrônicos, com foco em lucratividade, categorias de produtos, performance de vendedores e evolução de receita ao longo do tempo.
 
-🔗 Acessar Dashboard ao Vivo: https://app.powerbi.com/view?r=eyJrIjoiYmJlNTZmZmMtZjE5OS00MTFmLTk0YzYtMzg2MDc2MmYwYjg3IiwidCI6IjdiNzZjYWM5LTBkYTQtNGNmZC1hZWY1LWEyNDgyNDI5NmYyMiJ9
-
+🔗 [Ver Dashboard ao Vivo](https://app.powerbi.com/view?r=eyJrIjoiYmJlNTZmZmMtZjE5OS00MTFmLTk0YzYtMzg2MDc2MmYwYjg3IiwidCI6IjdiNzZjYWM5LTBkYTQtNGNmZC1hZWY1LWEyNDgyNDI5NmYyMiJ9
+)
 🎯 Objetivo
 Centralizar os principais indicadores de vendas de uma empresa do setor de eletrônicos em um único painel interativo, permitindo que gestores acompanhem o desempenho em tempo real, identifiquem as categorias mais lucrativas e tomem decisões baseadas em dados.
 
