@@ -19,6 +19,7 @@ Centralizar os principais indicadores de vendas de uma empresa do setor de eletr
 IndicadorValor 💰Receita Total R$ 114,59 milhões 📈Lucro Total R$ 21,98 milhões 🎯Margem de Lucro 19,18% 🛒Ticket Médio R$ 3.540,00 🏆Categoria Líder Notebooks 🥇Melhor Vendedor Diego Santos 📦Produto Mais Vendido Monitor LG 27" 4K
 
 📋 Visões e Análises do Painel
+![Descrição](dashboard.png)
 
 🏷️ Lucratividade por Categoria
 Comparativo visual entre as categorias de produtos (Notebooks, Monitores, Smartphones, Acessórios, etc.), ordenadas por contribuição ao lucro total. Permite identificar rapidamente onde concentrar esforços comerciais.
